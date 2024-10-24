@@ -14,8 +14,7 @@ export default function Page() {
 
   return (
     <>
-      <Navbar />
-      <h1>Home</h1>
+      Test
 
     </>
   )
